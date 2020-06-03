@@ -2,10 +2,8 @@
 // Standard CSS normalize, comment out if not required or using a different module
 @import "~minireset.css/minireset";
 
-/* See: https://www.infragistics.com/products/ignite-ui-angular/angular/components/themes.html */
 @import "~igniteui-angular/lib/core/styles/themes/index";
-@import '../node_modules/primeng/resources/themes/rhea/theme.css';
-@import '../node_modules/primeng/resources/primeng.min.css';
+
 
 @import "app/themes/palettes";
 @import "app/themes/vars";
